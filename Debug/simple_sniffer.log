@@ -1,0 +1,25 @@
+﻿cl : командная строка warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  sniffer.cpp
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(198,23): warning C4200: нестандартное расширение: массив нулевого размера в структуре (объединении)
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(198,23): message : Этот член будет пропущен конструктором, установленным по умолчанию, или оператором назначения копии или перемещения
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(314,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(325,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2219): message : см. объявление "gethostbyname"
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(397,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Lenovo\Desktop\simple sniffer\RawSock.h(442,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : см. объявление "sprintf"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(239,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : см. объявление "fopen"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(255,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(260,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(265,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : см. объявление "scanf"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(266,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1831): message : см. объявление "inet_addr"
+C:\Users\Lenovo\Desktop\simple sniffer\sniffer.cpp(298,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : см. объявление "localtime"
+  simple_sniffer.vcxproj -> C:\Users\Lenovo\Desktop\simple sniffer\Debug\simple_sniffer.exe
